@@ -38,7 +38,7 @@ ALEX-UB    (userbot) made by @alexuserbot_yourdad. Supported by respective hellb
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshbotmaker/ALEXBOT)
+  [![Deploy](https://git.heroku.com/alexusebot.git)
 
 
 </details>
